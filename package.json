@@ -1,0 +1,15 @@
+{
+  "name": "iniquumjs",
+  "version": "1.0.0",
+  "description": "Iniquum JS bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sir_Abe",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+  
+}
